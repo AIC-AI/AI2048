@@ -1,2 +1,2 @@
 # AI2048
-(中文|ENGLISH)
+([**English**](README_en.md) | **中文** )

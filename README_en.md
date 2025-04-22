@@ -1,1 +1,2 @@
 #AI2048
+(#中文|#README_en ENGLISH)
